@@ -1,0 +1,61 @@
+*{
+  max-width: 410px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+.wrapper{
+  width: 100%;
+  height: 800px;
+  border: 1px solid;
+  text-align: center;
+  padding: 10px;
+  background-image: url(./img/photo_2022-01-06_09-50-26.jpg);
+  background-size: cover;
+}
+
+.text{
+  width: 90%;
+ height: auto;
+ margin-top: 10px;
+ color: white;
+}
+
+.text p{
+  margin-top: 20px;
+}
+
+.text span{
+  font-style: italic;
+  font-size: 24px;
+  color: mediumvioletred;
+
+}
+
+header{
+  width: 90%;
+  height: 80%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.325);
+}
+
+header button{
+  background-color: gold;
+  color: rgb(238, 4, 4);
+  width: 120px;
+  height: 40px;
+  border: 1px solid rgb(232, 222, 116);
+  border-radius: 30px;
+  margin-top: 50px;
+  margin-left: 30px;
+  box-shadow: white 1px 2px 1px 2px;
+  /* box-shadow: turquoise; */
+}

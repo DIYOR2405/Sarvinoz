@@ -1,0 +1,49 @@
+*{
+max-width: 410px;
+width: 100%;
+height: auto;
+margin: 0 auto;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+.wrapper{
+  width: 100%;
+  height: 700px;
+  background-image: url(/img/photo_2023-01-28_01-20-01.jpg);
+  background-size: auto;
+  background-repeat: no-repeat;
+
+}
+
+.text{
+  width: 90%;
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.758);
+  color: rgb(176, 215, 248);
+  text-align: center;
+  /* padding-top: 50px; */
+  border-radius: 10px;
+}
+
+.text p{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+footer{
+  width: 100%;
+  height: 700px;
+  background-image: url(/img/photo_2023-01-28_01-21-02.jpg);
+
+}
+
+.f_text{
+  text-align: center;
+  width: 90%;
+  background-color: rgba(240, 248, 255, 0.588);
+  color: crimson;
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
